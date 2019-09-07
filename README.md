@@ -23,15 +23,14 @@ npm run test
 ```
 1. Developed the user facing featureusing Vue.js.
 2. Optimize the application for performance.
-3. Implemented Testing intergrated into development work flows.
-4. Checked and connected to the API response.
-5. Designed the User interface.
-6.Created a repo on GitHub and pushed.
+3. Checked and connected to the API response.
+4. Designed the User interface.
+5.Created a repo on GitHub and pushed.
 ```
 
 ### Hours Spent
 ```
-3 Hours
+4Hours
 ```
 ### Additional Information
 ```
